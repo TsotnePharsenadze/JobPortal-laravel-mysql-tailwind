@@ -10,37 +10,37 @@ Laravel-powered job portal with Sanctum for auth, Alpine.js for interactivity, a
   </p>
 <table>
       <tr>
-            <td><img src="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/1.PNG" alt="10pic-light" width="300"></td>
-            <td><img src="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/9.PNG" alt="10pic" width="300"></td>
-            <td style="background: linear-gradient(to right, #ebf8ff, #e9d8fd, #fbcfe8)"><img src="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/mobile.PNG" alt="13mobile" width="100"></td>
+            <td><img src="https://github.com/TsotnePharsenadze/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/1.PNG" alt="10pic-light" width="300"></td>
+            <td><img src="https://github.com/TsotnePharsenadze/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/9.PNG" alt="10pic" width="300"></td>
+            <td style="background: linear-gradient(to right, #ebf8ff, #e9d8fd, #fbcfe8)"><img src="https://github.com/TsotnePharsenadze/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/mobile.PNG" alt="13mobile" width="100"></td>
         </tr>
 </table>
   <p>
-    <a href="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/graphs/contributors">
-      <img src="https://img.shields.io/github/contributors/WalleMechson/JobPortal-laravel-mysql-tailwind" alt="contributors" />
+    <a href="https://github.com/TsotnePharsenadze/JobPortal-laravel-mysql-tailwind/graphs/contributors">
+      <img src="https://img.shields.io/github/contributors/TsotnePharsenadze/JobPortal-laravel-mysql-tailwind" alt="contributors" />
     </a>
     <a href="">
-      <img src="https://img.shields.io/github/last-commit/WalleMechson/JobPortal-laravel-mysql-tailwind" alt="last update" />
+      <img src="https://img.shields.io/github/last-commit/TsotnePharsenadze/JobPortal-laravel-mysql-tailwind" alt="last update" />
     </a>
-    <a href="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/network/members">
-      <img src="https://img.shields.io/github/forks/WalleMechson/JobPortal-laravel-mysql-tailwind" alt="forks" />
+    <a href="https://github.com/TsotnePharsenadze/JobPortal-laravel-mysql-tailwind/network/members">
+      <img src="https://img.shields.io/github/forks/TsotnePharsenadze/JobPortal-laravel-mysql-tailwind" alt="forks" />
     </a>
-    <a href="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/stargazers">
-      <img src="https://img.shields.io/github/stars/WalleMechson/JobPortal-laravel-mysql-tailwind" alt="stars" />
+    <a href="https://github.com/TsotnePharsenadze/JobPortal-laravel-mysql-tailwind/stargazers">
+      <img src="https://img.shields.io/github/stars/TsotnePharsenadze/JobPortal-laravel-mysql-tailwind" alt="stars" />
     </a>
-    <a href="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/issues/">
-      <img src="https://img.shields.io/github/issues/WalleMechson/JobPortal-laravel-mysql-tailwind" alt="open issues" />
+    <a href="https://github.com/TsotnePharsenadze/JobPortal-laravel-mysql-tailwind/issues/">
+      <img src="https://img.shields.io/github/issues/TsotnePharsenadze/JobPortal-laravel-mysql-tailwind" alt="open issues" />
     </a>
   </p>
    
   <h4>
     <a href="#">Currently not avaliable</a>
     <span> · </span>
-    <a href="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/blob/main/public/readme.md">Documentation</a>
+    <a href="https://github.com/TsotnePharsenadze/JobPortal-laravel-mysql-tailwind/blob/main/public/readme.md">Documentation</a>
     <span> · </span>
-    <a href="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/issues/">Report Bug</a>
+    <a href="https://github.com/TsotnePharsenadze/JobPortal-laravel-mysql-tailwind/issues/">Report Bug</a>
     <span> · </span>
-    <a href="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/issues/">Request Feature</a>
+    <a href="https://github.com/TsotnePharsenadze/JobPortal-laravel-mysql-tailwind/issues/">Request Feature</a>
   </h4>
 </div>
 
@@ -88,7 +88,7 @@ Laravel-powered job portal with Sanctum for auth, Alpine.js for interactivity, a
 -   Clone the repository:
 
     ```bash
-    git clone https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind
+    git clone https://github.com/TsotnePharsenadze/JobPortal-laravel-mysql-tailwind
     ```
 
 -   Navigate to the project directory:
@@ -133,27 +133,27 @@ Laravel-powered job portal with Sanctum for auth, Alpine.js for interactivity, a
 
 <table>
       <tr>
-            <td><img src="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/1.PNG" alt="10pic-light" width="300"></td>
-            <td><img src="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/2.PNG" alt="10pic" width="300"></td>
-            <td><img src="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/3.PNG" alt="13mobile" width="300"></td>
+            <td><img src="https://github.com/TsotnePharsenadze/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/1.PNG" alt="10pic-light" width="300"></td>
+            <td><img src="https://github.com/TsotnePharsenadze/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/2.PNG" alt="10pic" width="300"></td>
+            <td><img src="https://github.com/TsotnePharsenadze/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/3.PNG" alt="13mobile" width="300"></td>
         </tr>
               <tr>
-            <td><img src="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/4.PNG" alt="10pic-light" width="300"></td>
-            <td><img src="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/5.PNG" alt="10pic" width="300"></td>
-            <td><img src="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/6.PNG" alt="13mobile" width="300"></td>
+            <td><img src="https://github.com/TsotnePharsenadze/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/4.PNG" alt="10pic-light" width="300"></td>
+            <td><img src="https://github.com/TsotnePharsenadze/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/5.PNG" alt="10pic" width="300"></td>
+            <td><img src="https://github.com/TsotnePharsenadze/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/6.PNG" alt="13mobile" width="300"></td>
         </tr>
               <tr>
-            <td><img src="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/7.PNG" alt="10pic-light" width="300"></td>
-            <td><img src="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/8.PNG" alt="10pic" width="300"></td>
-            <td><img src="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/9.PNG" alt="13mobile" width="300"></td>
+            <td><img src="https://github.com/TsotnePharsenadze/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/7.PNG" alt="10pic-light" width="300"></td>
+            <td><img src="https://github.com/TsotnePharsenadze/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/8.PNG" alt="10pic" width="300"></td>
+            <td><img src="https://github.com/TsotnePharsenadze/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/9.PNG" alt="13mobile" width="300"></td>
         </tr>
               <tr>
-            <td><img src="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/10.PNG" alt="10pic-light" width="300"></td>
-            <td><img src="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/11.PNG" alt="10pic" width="300"></td>
-            <td><img src="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/12.PNG" alt="13mobile" width="300"></td>
+            <td><img src="https://github.com/TsotnePharsenadze/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/10.PNG" alt="10pic-light" width="300"></td>
+            <td><img src="https://github.com/TsotnePharsenadze/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/11.PNG" alt="10pic" width="300"></td>
+            <td><img src="https://github.com/TsotnePharsenadze/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/12.PNG" alt="13mobile" width="300"></td>
         </tr>
               <tr>
-            <td><img src="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/13.PNG" alt="10pic-light"width="300"></td>
+            <td><img src="https://github.com/TsotnePharsenadze/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/13.PNG" alt="10pic-light"width="300"></td>
         </tr>
 </table>
 <br/>
